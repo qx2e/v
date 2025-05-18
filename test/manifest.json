@@ -7,7 +7,7 @@
       "id": "629368283354628116"
     }
   ],
-  "main": "./src/index.tsx",
+  "main": "index.tsx",
   "vendetta": {
     "icon": "ChatCheckIcon"
   }
